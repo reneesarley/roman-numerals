@@ -23,7 +23,7 @@ _Epicodus' assignment to convert normal numbers to roman numerals with attention
 | Converts 100's to C  | 300 | CCC |
 | Convert 1000's to M | 3000 | MMM |
 | If user inputs an exact roman number (1, 5, 10, 50, 100, 500, 1000), only output corresponding roman numeral | 50 | L |
-| If there are exactly 5 of the same, ie. 5, 50, 500, convert to corresponding roman numberal | XXXXX | L |
+| If there are 5 in a row of the same, ie. 5, 50, 500, convert to corresponding roman numberal | XXXXX | L |
 | If there are more than three of the same, convert to one greater, but keep one in the front. | 4 | IV |
 
 ## Setup/Installation Requirements
